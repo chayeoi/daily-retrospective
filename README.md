@@ -1,2 +1,3 @@
 # daily-retrospective
-그날, 하루 회고
+
+하루 회고 기록하기
